@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Arma3ConfigExtractorGUI.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="OutputPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="tmpWorkPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PBOManagerDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files\PBO Manager v.1.4 beta</Value>
+    </Setting>
+    <Setting Name="Arma3ConfigExtractorDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.\</Value>
+    </Setting>
+    <Setting Name="CfgConvertDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C\steam\steamapps\common\Arma 3 Tools\CfgConvert</Value>
+    </Setting>
+    <Setting Name="PBODir" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
